@@ -1,4 +1,4 @@
-# Golang zipsfx (Self Extracting Archive)
+# Go zipsfx (Self Extracting Archive)
 `zipsfx` is [Go](http://golang.org/) package that allows creating __Self Extracting Archive (sfx)__ for Windows.
 
 ## Usage
